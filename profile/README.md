@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Logo" width="400">
+<img src="../logo.png" alt="Logo" width="400">
 
 # Healthy Brain Study
 
